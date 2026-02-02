@@ -39,7 +39,7 @@ A complete listing of my projects organized by technology stack.
 - **[Duplicate File Finder](https://gitlab.com/user4302_Projects/coding/powershell/duplicate-file-finder)** - High-speed filesystem cleaning tool with parallel hashing.
 - **[Quick Delete](https://gitlab.com/user4302_Projects/coding/powershell/quick-delete)** - Performance-optimized file removal system with Explorer integration.
 - **[Set PowerShell 7 as Default](https://gitlab.com/user4302_Projects/coding/powershell/set-ps7-as-default)** - System configuration automation.
-- **[Sort Into Folders of X](https://gitlab.com/user4302_Projects/coding/powershell/sort-into-folders-of-x)** - Batch file organization script.
+- **[Sorter](https://gitlab.com/user4302_Projects/coding/powershell/sorter)** - Batch file organization script.
 - **[Sort Into Folders by Date](https://gitlab.com/user4302_Projects/coding/powershell/sort-into-folders-by-date)** - Automated chronological file organization.
 
 ### 🐍 Desktop & Automation (Python / Shell)
