@@ -52,6 +52,7 @@ A complete listing of my projects organized by technology stack.
 - **[Git Repo Optimizer](https://gitlab.com/user4302_Projects/coding/shell/git-repo-optimizer)** - Aggressive cleanup and size reduction scripts.
 
 ### 🌐 Web Applications (JS / TS)
+- **[GitLab Activity Visualizer](https://gitlab.com/user4302_Projects/coding/next-js/gitlab-activity-visualizer)** - Real-time SVG contribution calendar generator. [Live Demo](https://user4302-gitlab-activity-visualizer.netlify.app)
 - **[PanaPacks](https://gitlab.com/user4302_Projects/coding/next-js/panapacks)** - Artisanal food e-commerce platform. [Live Demo](https://panapacks.netlify.app/)
 - **[Poké Explorer](https://gitlab.com/user4302_Projects/coding/next-js/poke-explorer)** - Real-time Pokémon database. [Live Demo](https://user4302-poke-explorer.netlify.app/)
 - **[Stardust Reader](https://gitlab.com/user4302_Projects/coding/next-js/stardust-reader)** - Interactive novel reader. [Live Demo](https://user4302-stardust.netlify.app/)
@@ -74,7 +75,7 @@ A complete listing of my projects organized by technology stack.
 
 ## 📊 GitLab Activity
 
-![GitLab Activity](https://user4302-gitlab-activity-visualizer.netlify.app/api/calendar?username=user4302&theme=blue)
+![GitLab Activity](https://user4302-gitlab-activity-visualizer.netlify.app/api/calendar?username=user4302&theme=orange)
 
 ## 🔗 Connect With Me
 
