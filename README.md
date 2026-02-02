@@ -72,7 +72,7 @@ A complete listing of my projects organized by technology stack.
 
 ---
 
-## 📊 Activity & Stats
+## 📊 GitLab Activity
 
 ![GitLab Activity](https://user4302-gitlab-activity-visualizer.netlify.app/api/calendar?username=user4302&theme=blue)
 
