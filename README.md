@@ -89,7 +89,7 @@ A complete listing of my projects organized by technology stack.
 <details>
 <summary><b>🌱 Personal Tidbits</b></summary>
 
-- 🇯🇵 Learning Japanese
+- 🗾 Learning Japanese
 - 📺 Anime & K-Drama Fan
 - 🐱 Cat Lover & 🪴 Gardener
 - 🛠️ DIY & Woodworking Hobbyist
