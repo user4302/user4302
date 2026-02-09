@@ -41,7 +41,7 @@ A complete listing of my projects organized by technology stack.
 - **[Set PowerShell 7 as Default](https://gitlab.com/user4302_Projects/coding/powershell/set-ps7-as-default)** - System configuration automation.
 - **[Sorter](https://gitlab.com/user4302_Projects/coding/powershell/sorter)** - Batch file organization script.
 - **[Sort Into Folders by Date](https://gitlab.com/user4302_Projects/coding/powershell/sort-into-folders-by-date)** - Automated chronological file organization.
-- **[Fix-Gamebar](https://gitlab.com/user4302_Projects/coding/powershell/fix-gamebar)** - BcastDVR Cleanup Tool
+- **[Fix-Gamebar](https://gitlab.com/user4302_Projects/coding/powershell/fix-gamebar)** - Windows game bar Capture (BcastDVR) Cleanup Tool
 
 ### 🐍 Desktop & Automation (Python / Shell)
 - **[Goro](https://gitlab.com/user4302_Projects/coding/python/textual/goro)** - Advanced Textual TUI for Git operations. [PyPi](https://pypi.org/project/goro)
