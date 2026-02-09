@@ -21,7 +21,7 @@
 - 🌌 **[Stardust: AI Translation & Reader](https://gitlab.com/user4302_Projects/coding/next-js/stardust-reader)** - A full pipeline including an **AI-powered German-to-English translator** (Python/Mistral) and a **premium web reader** (Next.js 16) with page-flip animations. [Live Reader](https://user4302-stardust.netlify.app/).
 - 🦞 **[Goro — Git Ops Repo Orchestrator](https://github.com/user4302/goro)** - Blazing-fast Python TUI for managing dozens of Git repos simultaneously. [Available on PyPi](https://pypi.org/project/goro).
 - 👁️ **[Canny Edge Detector](https://gitlab.com/user4302_Projects/coding/python/university/iit/canny-edge-detector)** - A from-scratch Python implementation of the Canny algorithm for high-precision computer vision tasks.
-- 🏗️ **[CoBE - Core Backend](https://gitlab.com/user4302_Projects/coding/node-js/cobe)** - A production-ready, modular Node.js foundation using TypeScript, Prisma, and Redis.
+- 🏗️ **[CoBE - Core Backend](https://gitlab.com/user4302_Projects/coding/node-js/cobe-scaffold)** - A production-ready, modular Node.js foundation using TypeScript, Prisma, and Redis.
 
 ---
 
