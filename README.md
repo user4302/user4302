@@ -101,3 +101,320 @@ A complete listing of my personal and open-source work.
 - 🛠️ DIY & Woodworking Hobbyist
 
 </details>
+<!-- PROJECTS_START -->
+
+### Advanced Scientific Calculator (Open-Source)
+[GitLab Repo](link-to-gitlab) | [Live Site](link-to-site)
+<!-- Add parsed description, etc. -->
+
+
+### Angelo EDZ Portfolio Website (Personal)
+[GitLab Repo](link-to-gitlab) | [Live Site](link-to-site)
+<!-- Add parsed description, etc. -->
+
+
+### APK Signing and Packaging PowerShell Automation (Open-Source)
+[GitLab Repo](link-to-gitlab) | [Live Site](link-to-site)
+<!-- Add parsed description, etc. -->
+
+
+### AuthNote - User Authentication Note Management System (Personal)
+[GitLab Repo](link-to-gitlab) | [Live Site](link-to-site)
+<!-- Add parsed description, etc. -->
+
+
+### AutoHotkey v2 Productivity Automation Suite (Open-Source)
+[GitLab Repo](link-to-gitlab) | [Live Site](link-to-site)
+<!-- Add parsed description, etc. -->
+
+
+### BDO Ship Building Tracker (Open-Source)
+[GitLab Repo](link-to-gitlab) | [Live Site](link-to-site)
+<!-- Add parsed description, etc. -->
+
+
+### Bulk Barcode Generator for Event Management (Personal)
+[GitLab Repo](link-to-gitlab) | [Live Site](link-to-site)
+<!-- Add parsed description, etc. -->
+
+
+### Canny Edge Detector Implementation (University)
+[GitLab Repo](link-to-gitlab) | [Live Site](link-to-site)
+<!-- Add parsed description, etc. -->
+
+
+### CoBE - Core Backend (Personal)
+[GitLab Repo](link-to-gitlab) | [Live Site](link-to-site)
+<!-- Add parsed description, etc. -->
+
+
+### CoBE Scaffold - Modular Node.js Infrastructure Template (Open-Source)
+[GitLab Repo](link-to-gitlab) | [Live Site](link-to-site)
+<!-- Add parsed description, etc. -->
+
+
+### Directory Dumper - XML Tree Generator (Open-Source)
+[GitLab Repo](link-to-gitlab) | [Live Site](link-to-site)
+<!-- Add parsed description, etc. -->
+
+
+### DocuShield - Secure Document Sharing Platform (Personal)
+[GitLab Repo](link-to-gitlab) | [Live Site](link-to-site)
+<!-- Add parsed description, etc. -->
+
+
+### Empty Folder Deleter Utility (Open-Source)
+[GitLab Repo](link-to-gitlab) | [Live Site](link-to-site)
+<!-- Add parsed description, etc. -->
+
+
+### File Organization Automation Script (Open-Source)
+[GitLab Repo](link-to-gitlab) | [Live Site](link-to-site)
+<!-- Add parsed description, etc. -->
+
+
+### Game Bar Fix - BcastDVR Cleanup Tool (Open-Source)
+[GitLab Repo](link-to-gitlab) | [Live Site](link-to-site)
+<!-- Add parsed description, etc. -->
+
+
+### Game Server Backup Automation Scripts (Open-Source)
+[GitLab Repo](link-to-gitlab) | [Live Site](link-to-site)
+<!-- Add parsed description, etc. -->
+
+
+### GCMS (Gigaclear Compensation Management System) - HR Onboarding Platform (Professional)
+[GitLab Repo](link-to-gitlab) | [Live Site](link-to-site)
+<!-- Add parsed description, etc. -->
+
+
+### GenBank - Modern Banking Landing Page (Personal)
+[GitLab Repo](link-to-gitlab) | [Live Site](link-to-site)
+<!-- Add parsed description, etc. -->
+
+
+### Git Repository Manager (GRM) (Open-Source)
+[GitLab Repo](link-to-gitlab) | [Live Site](link-to-site)
+<!-- Add parsed description, etc. -->
+
+
+### Git Repository Optimization Suite (Open-Source)
+[GitLab Repo](link-to-gitlab) | [Live Site](link-to-site)
+<!-- Add parsed description, etc. -->
+
+
+### GitLab Activity Visualizer (Open-Source)
+[GitLab Repo](link-to-gitlab) | [Live Site](link-to-site)
+<!-- Add parsed description, etc. -->
+
+
+### Goro — Git Ops Repo Orchestrator (Open-Source)
+[GitLab Repo](link-to-gitlab) | [Live Site](link-to-site)
+<!-- Add parsed description, etc. -->
+
+
+### Grafana Monitoring and Alerting System (Professional)
+[GitLab Repo](link-to-gitlab) | [Live Site](link-to-site)
+<!-- Add parsed description, etc. -->
+
+
+### Hyfen8 Assessment Portal (Professional)
+[GitLab Repo](link-to-gitlab) | [Live Site](link-to-site)
+<!-- Add parsed description, etc. -->
+
+
+### Hyfen8 Portal Backend API (Professional)
+[GitLab Repo](link-to-gitlab) | [Live Site](link-to-site)
+<!-- Add parsed description, etc. -->
+
+
+### Hyfen8 Website (Professional)
+[GitLab Repo](link-to-gitlab) | [Live Site](link-to-site)
+<!-- Add parsed description, etc. -->
+
+
+### iTelaSoft Builder CMS - Enterprise Website Platform (Professional)
+[GitLab Repo](link-to-gitlab) | [Live Site](link-to-site)
+<!-- Add parsed description, etc. -->
+
+
+### M-Pesa QR Code Management System (Professional)
+[GitLab Repo](link-to-gitlab) | [Live Site](link-to-site)
+<!-- Add parsed description, etc. -->
+
+
+### Mobitel Smart Parking Management System (Professional)
+[GitLab Repo](link-to-gitlab) | [Live Site](link-to-site)
+<!-- Add parsed description, etc. -->
+
+
+### Node.js HubSpot CRM Integration API (Professional)
+[GitLab Repo](link-to-gitlab) | [Live Site](link-to-site)
+<!-- Add parsed description, etc. -->
+
+
+### Novel Reader App - Ancient Library Edition (Personal)
+[GitLab Repo](link-to-gitlab) | [Live Site](link-to-site)
+<!-- Add parsed description, etc. -->
+
+
+### PanaPacks - Artisanal Food E-commerce Platform (Professional)
+[GitLab Repo](link-to-gitlab) | [Live Site](link-to-site)
+<!-- Add parsed description, etc. -->
+
+
+### Plex AniSync Automation Script (Personal)
+[GitLab Repo](link-to-gitlab) | [Live Site](link-to-site)
+<!-- Add parsed description, etc. -->
+
+
+### Plex-Trakt Sync Automation Script (Personal)
+[GitLab Repo](link-to-gitlab) | [Live Site](link-to-site)
+<!-- Add parsed description, etc. -->
+
+
+### Poké Explorer (Personal)
+[GitLab Repo](link-to-gitlab) | [Live Site](link-to-site)
+<!-- Add parsed description, etc. -->
+
+
+### PowerShell 7 Default Configuration Script (Open-Source)
+[GitLab Repo](link-to-gitlab) | [Live Site](link-to-site)
+<!-- Add parsed description, etc. -->
+
+
+### PowerShell Duplicate File Finder and Organizer (Open-Source)
+[GitLab Repo](link-to-gitlab) | [Live Site](link-to-site)
+<!-- Add parsed description, etc. -->
+
+
+### PowerShell Script Administrator Context Menu (Open-Source)
+[GitLab Repo](link-to-gitlab) | [Live Site](link-to-site)
+<!-- Add parsed description, etc. -->
+
+
+### Python Virtual Environment Starter (Personal)
+[GitLab Repo](link-to-gitlab) | [Live Site](link-to-site)
+<!-- Add parsed description, etc. -->
+
+
+### Quick Delete - Windows Folder Deletion Utility (Open-Source)
+[GitLab Repo](link-to-gitlab) | [Live Site](link-to-site)
+<!-- Add parsed description, etc. -->
+
+
+### Roll Length Calculator (Personal)
+[GitLab Repo](link-to-gitlab) | [Live Site](link-to-site)
+<!-- Add parsed description, etc. -->
+
+
+### SCPF (Supply Chain Finance Platform) Frontend (Professional)
+[GitLab Repo](link-to-gitlab) | [Live Site](link-to-site)
+<!-- Add parsed description, etc. -->
+
+
+### Simple Node.js API Server (Personal)
+[GitLab Repo](link-to-gitlab) | [Live Site](link-to-site)
+<!-- Add parsed description, etc. -->
+
+
+### Smart Bin IoT Backend API (Professional)
+[GitLab Repo](link-to-gitlab) | [Live Site](link-to-site)
+<!-- Add parsed description, etc. -->
+
+
+### Smart Bin IoT Monitoring Dashboard (Professional)
+[GitLab Repo](link-to-gitlab) | [Live Site](link-to-site)
+<!-- Add parsed description, etc. -->
+
+
+### Sort Into Folders of X (Open-Source)
+[GitLab Repo](link-to-gitlab) | [Live Site](link-to-site)
+<!-- Add parsed description, etc. -->
+
+
+### Sorter (Open-Source)
+[GitLab Repo](link-to-gitlab) | [Live Site](link-to-site)
+<!-- Add parsed description, etc. -->
+
+
+### Unknown (Personal)
+[GitLab Repo](link-to-gitlab) | [Live Site](link-to-site)
+<!-- Add parsed description, etc. -->
+
+
+### Unknown ()
+[GitLab Repo](link-to-gitlab) | [Live Site](link-to-site)
+<!-- Add parsed description, etc. -->
+
+
+### Unknown ()
+[GitLab Repo](link-to-gitlab) | [Live Site](link-to-site)
+<!-- Add parsed description, etc. -->
+
+
+### Vue Task Tracker (Personal)
+[GitLab Repo](link-to-gitlab) | [Live Site](link-to-site)
+<!-- Add parsed description, etc. -->
+
+
+### Vue.js CRM Contact Management Frontend (Professional)
+[GitLab Repo](link-to-gitlab) | [Live Site](link-to-site)
+<!-- Add parsed description, etc. -->
+
+
+### Wild Frontiers Sri Lanka - Adventure Tourism Website (Professional)
+[GitLab Repo](link-to-gitlab) | [Live Site](link-to-site)
+<!-- Add parsed description, etc. -->
+
+
+### Windows Registry Context Menu Integration for VS Code (Open-Source)
+[GitLab Repo](link-to-gitlab) | [Live Site](link-to-site)
+<!-- Add parsed description, etc. -->
+
+
+### Windows Update Tool (Open-Source)
+[GitLab Repo](link-to-gitlab) | [Live Site](link-to-site)
+<!-- Add parsed description, etc. -->
+
+
+### Winget Upgrade Helper (WUH) (Open-Source)
+[GitLab Repo](link-to-gitlab) | [Live Site](link-to-site)
+<!-- Add parsed description, etc. -->
+
+
+### XG Controller UI - CMCT Frontend Platform (Professional)
+[GitLab Repo](link-to-gitlab) | [Live Site](link-to-site)
+<!-- Add parsed description, etc. -->
+
+
+### XG DM Device Migration Firmware (Professional)
+[GitLab Repo](link-to-gitlab) | [Live Site](link-to-site)
+<!-- Add parsed description, etc. -->
+
+
+### XG DM Firmware Raspberry Pi Communication System (Professional)
+[GitLab Repo](link-to-gitlab) | [Live Site](link-to-site)
+<!-- Add parsed description, etc. -->
+
+
+### XG VoLTE Test Suite Collection (Professional)
+[GitLab Repo](link-to-gitlab) | [Live Site](link-to-site)
+<!-- Add parsed description, etc. -->
+
+
+### YC Directory - Startup Pitch Platform (Personal)
+[GitLab Repo](link-to-gitlab) | [Live Site](link-to-site)
+<!-- Add parsed description, etc. -->
+
+
+### YouTube Brand Account Video Mover (Personal)
+[GitLab Repo](link-to-gitlab) | [Live Site](link-to-site)
+<!-- Add parsed description, etc. -->
+
+
+### Yuex Website - Builder.io Powered Next.js Application (Professional)
+[GitLab Repo](link-to-gitlab) | [Live Site](link-to-site)
+<!-- Add parsed description, etc. -->
+
+<!-- PROJECTS_END -->
